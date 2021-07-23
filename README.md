@@ -1,3 +1,2 @@
-# julia
-## Automation Bot
+# julia-AI
 ### Work in progress
