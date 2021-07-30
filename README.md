@@ -1,2 +1,2 @@
-# julia-AI
+# jade-AI
 ### Work in progress
